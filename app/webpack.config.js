@@ -3,6 +3,7 @@ var path = require('path');
 
 var BUILD_DIR = path.resolve(__dirname, 'frontend');
 var APP_DIR = path.resolve(__dirname, 'frontend/scripts');
+var STYLE_DIR = path.resolve(__dirname, 'frontend/css');
 
 var config = {
   entry: [
@@ -21,6 +22,12 @@ var config = {
         include : APP_DIR,
         loader: 'babel-loader',
         loaders : ['react-hot-loader','babel-loader']
+
+      },
+      {
+        test: /\.css$/,
+        include: STYLE_DIR,
+        loaders:['style', 'css', 'less'],
       }
     ]
   },
