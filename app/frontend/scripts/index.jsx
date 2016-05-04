@@ -3,14 +3,15 @@ import {render} from 'react-dom';
 import {Jumbotron} from 'react-bootstrap';
 import {Button} from 'react-bootstrap';
 import {Row} from 'react-bootstrap';
+import Test from './Components/Test.js'
 
 const AppContainer = React.createClass({
 	render() {
 		return (
 			<div classname="appcontainer">
-				<TitleArea />
 				<ChampIcon />
 				<InputBox />
+				<Test />
 			</div>
 		);
 	}
