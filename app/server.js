@@ -27,10 +27,10 @@ new WebpackDevServer(webpack(config), {
 	console.log('Development server running at localhost:3001');
 
 
-	getPlayerId ('Ian952','a');
+//	getPlayerId ('Ian952','a');
 
 });
-
+/*
 var https = require('https');
 var apikey = 'c49048cc-8980-4f7b-a3d1-9c0b551a80ad';
 
@@ -72,3 +72,4 @@ function getPlayerId (name,callback) {
 function getMastery (player, callback) {
   //get mastery now
 }
+*/

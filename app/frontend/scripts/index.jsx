@@ -3,12 +3,14 @@ import {render} from 'react-dom';
 import {Jumbotron} from 'react-bootstrap';
 import {Button} from 'react-bootstrap';
 import {Row} from 'react-bootstrap';
-import Test from './Components/Test.js'
+import Test from './Components/Test.js';
+import Title from './Components/Title.js';
 
 const AppContainer = React.createClass({
 	render() {
 		return (
 			<div classname="appcontainer">
+				<Title />
 				<ChampIcon />
 				<InputBox />
 				<Test />
@@ -16,29 +18,6 @@ const AppContainer = React.createClass({
 		);
 	}
 });
-
-const TitleArea = React.createClass({
-	render() {
-		return(
-			<div classname="titlearea">
-				<Jumbotron>
-					<Title />
-				</Jumbotron>
-			</div>
-		);
-	}
-});
-
-const Title = React.createClass({
-	render(){
-		return(
-			<div classname="title">
-				<h1>LoL Champion Suggestion</h1>
-				<p>Input your team composition, and we'll suggest a champion for you! </p>
-			</div>
-		);
-	}
-})
 
 const ChampIcon = React.createClass({
   render () {
