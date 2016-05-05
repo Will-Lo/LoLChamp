@@ -1,10 +1,7 @@
 import React from 'react';
 import CSSModules from 'react-css-modules';
 import styles from './styles/Title.css';
-import {Jumbotron} from 'react-bootstrap';
-import {Grid} from 'react-bootstrap';
-import {Row} from 'react-bootstrap';
-import {Col} from 'react-bootstrap';
+import {Jumbotron, Grid, Row, Col} from 'react-bootstrap';
 
 class Title extends React.Component {
 	render(){
