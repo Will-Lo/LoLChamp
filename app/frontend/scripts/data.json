@@ -1,0 +1,517 @@
+{
+  "championData": [
+    {
+      "championName": "Aatrox",
+      "image": "AatroxSquare.png"
+    },
+    {
+      "championName": "Ahri",
+      "image": "AhriSquare.png"
+    },
+    {
+      "championName": "Akali",
+      "image": "AkaliSquare.png"
+    },
+    {
+      "championName": "Alistar",
+      "image": "AlistarSquare.png"
+    },
+    {
+      "championName": "Amumu",
+      "image": "AmumuSquare.png"
+    },
+    {
+      "championDName": "Annie",
+      "image": "AnnieSquare.png"
+    },
+    {
+      "championName": "Ashe",
+      "imageData": "AnnieSquare.png"
+    },
+    {
+      "championName": "Aurelion_Sol",
+      "imageData": "Aurelion_SolSquare.png"
+    },
+    {
+      "championName": "Azir",
+      "imageData": "AzirSquare.png"
+    },
+    {
+      "championName": "Blitzcrank",
+      "imageData": "BlitzcrankSquare.png"
+    },
+    {
+      "championName": "Brand",
+      "imageData": "BrandSquare.png"
+    },
+    {
+      "championName": "Braum",
+      "imageData": "BraumSquare.png"
+    },
+    {
+      "championName": "Caitlyn",
+      "imageData": "CaitlynSquare.png"
+    },
+    {
+      "championName": "Cassiopeia",
+      "imageData": "CassiopeiaSquare.png"
+    },
+    {
+      "championName": "ChoGath",
+      "imageData": "ChoGathSquare.png"
+    },
+    {
+      "championName": "Corki",
+      "imageData": "CorkiSquare.png"
+    },
+    {
+      "championName": "Darius",
+      "imageData": "DariusSquare.png"
+    },
+    {
+      "championName": "Diana",
+      "imageData": "DianaSquare.png"
+    },
+    {
+      "championName": "Draven",
+      "imageData": "DravenSquare.png"
+    },
+    {
+      "championName": "DrMundoSquare",
+      "imageData": "DrMundoSquare.png"
+    },
+    {
+      "championName": "Ekko",
+      "imageData": "EkkoSquare.png"
+    },
+    {
+      "championName": "Elise",
+      "imageData": "EliseSquare.png"
+    },
+    {
+      "championName": "Evelynn",
+      "imageData": "EvelynnSquare.png"
+    },
+    {
+      "championName": "Ezreal",
+      "imageData": "EzrealSquare.png"
+    },
+    {
+      "championName": "Fiddlesticks",
+      "imageData": "FiddlesticksSquare.png"
+    },
+    {
+      "championName": "Fiora",
+      "imageData": "FioraSquare.png"
+    },
+    {
+      "championName": "Fizz",
+      "imageData": "FizzSquare.png"
+    },
+    {
+      "championName": "Galio",
+      "imageData": "GalioSquare.png"
+    },
+    {
+      "championName": "Gangplank",
+      "imageData": "GangplankSquare.png"
+    },
+    {
+      "championName": "Garen",
+      "imageData": "GarenSquare.png"
+    },
+    {
+      "championName": "Gnar",
+      "imageData": "GnarSquare.png"
+    },
+    {
+      "championName": "Gragas",
+      "imageData": "GragasSquare.png"
+    },
+    {
+      "championName": "Graves",
+      "imageData": "GravesSquare.png"
+    },
+    {
+      "championName": "Hecarim",
+      "imageData": "HecarimSquare.png"
+    },
+    {
+      "championName": "Heimerdinger",
+      "imageData": "HeimerdingerSquare.png"
+    },
+    {
+      "championName": "Illaoi",
+      "imageData": "IllaoiSquare.png"
+    },
+    {
+      "championName": "Irelia",
+      "imageData": "IreliaSquare.png"
+    },
+    {
+      "championName": "Janna",
+      "imageData": "JannaSquare.png"
+    },
+    {
+      "championName": "JarvanIV",
+      "imageData": "JarvanIVSquare.png"
+    },
+    {
+      "championName": "Jax",
+      "imageData": "JaxSquare.png"
+    },
+    {
+      "championName": "Jayce",
+      "imageData": "JayceSquare.png"
+    },
+    {
+      "championName": "Jhin",
+      "imageData": "JhinSquare.png"
+    },
+    {
+      "championName": "Jinx",
+      "imageData": "JinxSquare.png"
+    },
+    {
+      "championName": "Kalista",
+      "imageData": "KalistaSquare.png"
+    },
+    {
+      "championName": "Karma",
+      "imageData": "KarmaSquare.png"
+    },
+    {
+      "championName": "Karthus",
+      "imageData": "KarthusSquare.png"
+    },
+    {
+      "championName": "Kassadin",
+      "imageData": "KassadinSquare.png"
+    },
+    {
+      "championName": "Katarina",
+      "imageData": "KatarinaSquare.png"
+    },
+    {
+      "championName": "Kayle",
+      "imageData": "KayleSquare.png"
+    },
+    {
+      "championName": "Kennen",
+      "imageData": "KennenSquare.png"
+    },
+    {
+      "championName": "KhaZix",
+      "imageData": "KhaZixSquare.png"
+    },
+    {
+      "championName": "Kindred",
+      "imageData": "KindredSquare.png"
+    },
+    {
+      "championName": "KogMaw",
+      "imageData": "KogMawSquare.png"
+    },
+    {
+      "championName": "LeBlanc",
+      "imageData": "LeBlancSquare.png"
+    },
+    {
+      "championName": "LeeSin",
+      "imageData": "LeeSinSquare.png"
+    },
+    {
+      "championName": "Leona",
+      "imageData": "LeonaSquare.png"
+    },
+    {
+      "championName": "Lissandra",
+      "imageData": "LissandraSquare.png"
+    },
+    {
+      "championName": "Lucian",
+      "imageData": "LucianSquare.png"
+    },
+    {
+      "championName": "Lulu",
+      "imageData": "LuluSquare.png"
+    },
+    {
+      "championName": "Lux",
+      "imageData": "LuxSquare.png"
+    },
+    {
+      "championName": "Malphite",
+      "imageData": "MalphiteSquare.png"
+    },
+    {
+      "championName": "Malzahar",
+      "imageData": "MalzaharSquare.png"
+    },
+    {
+      "championName": "Maokai",
+      "imageData": "MaokaiSquare.png"
+    },
+    {
+      "championName": "MasterYi",
+      "imageData": "MasterYiSquare.png"
+    },
+    {
+      "championName": "MissFortune",
+      "imageData": "MissFortuneSquare.png"
+    },
+    {
+      "championName": "Mordekaiser",
+      "imageData": "MordekaiserSquare.png"
+    },
+    {
+      "championName": "Morgana",
+      "imageData": "NamiSquare.png"
+    },
+    {
+      "championName": "Nasus",
+      "imageData": "NasusSquare.png"
+    },
+    {
+      "championName": "Nautilus",
+      "imageData": "NautilusSquare.png"
+    },
+    {
+      "championName": "Nidalee",
+      "imageData": "NidaleeSquare.png"
+    },
+    {
+      "championName": "Nocturne",
+      "image": "NocturneSquare.png",
+      "": {}
+    },
+    {
+      "championName": "Nunu",
+      "image": "NunuSquare.png"
+    },
+    {
+      "championName": "Olaf",
+      "image": "OlafSquare.png"
+    },
+    {
+      "championName": "Orianna",
+      "image": "OriannaSquare.png"
+    },
+    {
+      "championName": "Pantheon",
+      "image": "PantheonSquare.png"
+    },
+    {
+      "championName": "Poppy",
+      "image": "PoppySquare.png"
+    },
+    {
+      "championName": "Quinn",
+      "image": "QuinnSquare.png"
+    },
+    {
+      "championName": "Rammus",
+      "image": "RammusSquare.png"
+    },
+    {
+      "championName": "Rek'Sai",
+      "image": "Rek'SaiSquare.png"
+    },
+    {
+      "championName": "Renekton",
+      "image": "RenektonSquare.png"
+    },
+    {
+      "championName": "Rengar",
+      "image": "RengarSquare.png"
+    },
+    {
+      "championName": "Riven",
+      "image": "RivenSquare.png"
+    },
+    {
+      "championName": "Rumble",
+      "image": "RumbleSquare.png"
+    },
+    {
+      "championName": "Ryze",
+      "image": "RyzeSquare.png"
+    },
+    {
+      "championName": "Sejuani",
+      "image": "SejuaniSquare.png"
+    },
+    {
+      "championName": "Shaco",
+      "image": "ShacoSquare.png"
+    },
+    {
+      "championName": "Shen",
+      "image": "ShenSquare.png"
+    },
+    {
+      "championName": "Shyvana",
+      "image": "ShyvanaSquare.png"
+    },
+    {
+      "championName": "Singed",
+      "image": "SingedSquare.png"
+    },
+    {
+      "championName": "Sion",
+      "image": "SionSquare.png"
+    },
+    {
+      "championName": "Sivir",
+      "image": "SivirSquare.png"
+    },
+    {
+      "championName": "Skarner",
+      "image": "SkarnerSquare.png"
+    },
+    {
+      "championName": "Sona",
+      "image": "SonaSquare.png"
+    },
+    {
+      "championName": "Soraka",
+      "image": "SorakaSquare.png"
+    },
+    {
+      "championName": "Swain",
+      "image": "SwainSquare.png"
+    },
+    {
+      "championName": "Syndra",
+      "image": "SyndraSquare.png"
+    },
+    {
+      "championName": "Tahm Kench",
+      "image": "Tahm_KenchSquare.png"
+    },
+    {
+      "championName": "Taliyah",
+      "image": "TaliyahSquare.png"
+    },
+    {
+      "championName": "Talon",
+      "image": "TalonSquare.png"
+    },
+    {
+      "championName": "Taric",
+      "image": "TaricSquare.png"
+    },
+    {
+      "championName": "Teemo",
+      "image": "TeemoSquare.png"
+    },
+    {
+      "championName": "Thresh",
+      "image": "ThreshSquare.png"
+    },
+    {
+      "championName": "Tristana",
+      "image": "TristanaSquare.png"
+    },
+    {
+      "championName": "Trundle",
+      "image": "TrundleSquare.png"
+    },
+    {
+      "championName": "Tryndamere",
+      "image": "TryndamereSquare.png"
+    },
+    {
+      "championName": "TwistedFate",
+      "image": "TwistedFateSquare.png"
+    },
+    {
+      "championName": "Twitch",
+      "image": "TwitchSquare.png"
+    },
+    {
+      "championName": "Udyr",
+      "image": "UdyrSquare.png"
+    },
+    {
+      "championName": "Urgot",
+      "image": "UrgotSquare.png"
+    },
+    {
+      "championName": "Varus",
+      "image": "VarusSquare.png"
+    },
+    {
+      "championName": "Vayne",
+      "image": "VayneSquare.png"
+    },
+    {
+      "championName": "Veigar",
+      "image": "VeigarSquare.png"
+    },
+    {
+      "championName": "Vel'Koz",
+      "image": "Vel'KozSquare.png"
+    },
+    {
+      "championName": "Viktor",
+      "image": "ViktorSquare.png"
+    },
+    {
+      "championName": "Vi",
+      "image": "ViSquare.png"
+    },
+    {
+      "championName": "Vladmir",
+      "image": "VladmirSquare.png"
+    },
+    {
+      "championName": "Volibear",
+      "image": "VolibearSquare.png"
+    },
+    {
+      "championName": "Warwick",
+      "image": "WarwickSquare.png"
+    },
+    {
+      "championName": "WuKong",
+      "image": "WuKongSquare.png"
+    },
+    {
+      "championName": "Xerath",
+      "image": "XerathSquare.png"
+    },
+    {
+      "championName": "XinZhao",
+      "image": "XinZhaoSquare.png"
+    },
+    {
+      "championName": "Yasuo",
+      "image": "YasuoSquare.png"
+    },
+    {
+      "championName": "Yorick",
+      "image": "YorickSquare.png"
+    },
+    {
+      "championName": "Zac",
+      "image": "ZacSquare.png"
+    },
+    {
+      "championName": "Zed",
+      "image": "ZedSquare.png"
+    },
+    {
+      "championName": "Ziggs",
+      "image": "ZiggsSquare.png"
+    },
+    {
+      "championName": "Zilean",
+      "image": "ZileanSquare.png"
+    },
+    {
+      "championName": "Zyra",
+      "image": "ZyraSquare.png"
+    }
+  ]
+}

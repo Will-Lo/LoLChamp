@@ -5,14 +5,15 @@ import InputBox from './InputBox';
 
 const ChampBox = React.createClass({
 	
-	Submit: function(champion) {
-	console.log(champion);
+	submit: function(champion) {
+		console.log(champion);
+		return this.props.submit(champion)
 	},
 
 	render() {
 		return (
 			<div>
-				<InputBox handleEnter={this.Submit}/>
+				<InputBox handleEnter={this.submit}/>
 				<ChampIcon />
 			</div>
 		);
