@@ -24,9 +24,8 @@ const ChampContainer = React.createClass ({
       url: this.props.url,
       type: 'GET',
       cache: false,
-      async: false,
       success: function(data){
-        console.log(this.props.url);
+
       },
       //   const len = data.length;
       //   for (i = 0; i < len; i++ ){

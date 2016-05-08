@@ -1,5 +1,5 @@
 {
-  "championData": [
+  "championData":[
     {
       "championName": "Aatrox",
       "image": "AatroxSquare.png"
@@ -282,8 +282,7 @@
     },
     {
       "championName": "Nocturne",
-      "image": "NocturneSquare.png",
-      "": {}
+      "image": "NocturneSquare.png"
     },
     {
       "championName": "Nunu",
