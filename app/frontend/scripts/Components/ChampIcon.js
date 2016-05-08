@@ -4,16 +4,11 @@ import styles from './styles/ChampIcon.css';
 
 const ChampIcon = React.createClass({
 	propTypes:{
-    image: React.PropTypes.string
-  },
-
-  getInitialState: function(){
-    return {
-      image: '/scripts/Components/ChampIcons/ChampionSquare.png'
-    }
+    image: React.PropTypes.string.isRequired
   },
 
   render(){
+    console.log(this.props.image);
 		return(
 			<img src={this.props.image} />
 		);

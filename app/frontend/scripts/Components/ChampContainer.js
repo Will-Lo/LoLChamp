@@ -11,7 +11,7 @@ const ChampContainer = React.createClass ({
 
   getInitialState: function(){
     return {
-      icon1: '',
+      icon1: 'ChampionSquare.png',
     };
   },
 
@@ -34,6 +34,7 @@ const ChampContainer = React.createClass ({
           //add some visible warning
         }
         else{
+          console.log(image);
           this.setState ({
             icon1: image
           });
