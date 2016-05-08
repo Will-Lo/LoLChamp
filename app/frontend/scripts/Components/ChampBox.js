@@ -5,7 +5,12 @@ import InputBox from './InputBox';
 
 const ChampBox = React.createClass({
 	
-	submit: function(champion) {
+	propTypes:{
+		image: React.PropTypes.string,
+		submit: React.PropTypes.func.isRequired
+	},
+
+	submit: function(champion){
 		console.log(champion);
 		return this.props.submit(champion)
 	},
@@ -14,7 +19,7 @@ const ChampBox = React.createClass({
 		return (
 			<div>
 				<InputBox handleEnter={this.submit}/>
-				<ChampIcon />
+				<ChampIcon newImage={'/scripts/Components/ChampIcons/' + this.props.image}/>
 			</div>
 		);
 	}

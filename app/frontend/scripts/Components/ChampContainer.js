@@ -11,11 +11,7 @@ const ChampContainer = React.createClass ({
 
   getInitialState: function(){
     return {
-      iconTop: '',
-      iconMid: '',
-      iconJungle: '',
-      iconADC: '',
-      iconSupport: ''
+      icon1: '',
     };
   },
 
@@ -25,15 +21,24 @@ const ChampContainer = React.createClass ({
       type: 'GET',
       cache: false,
       success: function(data){
-
-      },
-      //   const len = data.length;
-      //   for (i = 0; i < len; i++ ){
-      //     if (champion.toLowerCase() == data['championName'[i]].toLowerCase()){
-      //       console.log("yay");
-        //   }
-        // }
-      // }
+        let key = 0;
+        let image = '';
+        for (key in data.championData){
+          //console.log(data.championData[key].championName);
+          if (champion.toLowerCase() == data.championData[key].championName.toLowerCase()){
+            image = data.championData[key].image;
+          }
+        }
+        if (!image){
+          return; //user input had no return
+          //add some visible warning
+        }
+        else{
+          this.setState ({
+            icon1: image
+          });
+        }
+      }.bind(this),
       error: function(xhr, status, err) {
         console.error(this.props.url, status, err.toString());
       }.bind(this)
@@ -42,7 +47,7 @@ const ChampContainer = React.createClass ({
 
   render() {
 		return(
-			<ChampBox submit={this.handleIconChange}/>			
+			<ChampBox submit={this.handleIconChange} image={this.state.icon1}/>			
 		);
 	}
 });

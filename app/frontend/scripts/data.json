@@ -21,7 +21,7 @@
       "image": "AmumuSquare.png"
     },
     {
-      "championDName": "Annie",
+      "championName": "Annie",
       "image": "AnnieSquare.png"
     },
     {
@@ -266,6 +266,10 @@
     },
     {
       "championName": "Morgana",
+      "imageData": "MorganaSquare.png"
+    },
+    {
+      "championName": "Nami",
       "imageData": "NamiSquare.png"
     },
     {
