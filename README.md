@@ -1,4 +1,4 @@
-# LoLPredict
+# LoLChamp
 A project made for the Riot Games API challenge
 
 Document for Riot Games API
